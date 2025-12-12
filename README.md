@@ -22,6 +22,17 @@
 <p>-Generar mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.</p>
 <p>-Explorar si algunas tiendas tienen un rendimiento superior o inferior en determinadas regiones.</p>
 <p>-Efectuar un gráfico en donde se observe el comportamiento de las ventas totales mensuales de cada tienda.</p>
+🧾 Conclusión Ejecutiva
+
+Tras un análisis integral de las cuatro tiendas del Sr. Juan, se evaluaron cinco dimensiones clave: facturación total, popularidad de categorías, evaluación promedio de clientes, productos más y menos vendidos, y costos de envío. A través de visualizaciones comparativas y métricas consolidadas, se identificaron patrones que permiten tomar una decisión estratégica fundamentada.
+
+📊 Hallazgos clave:
+
+Tienda 1: Líder en facturación, aunque con la evaluación más baja. Su volumen de ventas compensa la percepción del cliente.
+Tienda 2: Equilibrada en todos los aspectos, sin debilidades marcadas. Representa estabilidad operativa.
+Tienda 3: Buena evaluación y costos de envío bajos, pero con facturación limitada. Podría mejorar si se potencia su categoría dominante.
+Tienda 4: Menor facturación, costos de envío más altos, y baja dominancia de categoría. Aunque su evaluación es aceptable, su rentabilidad está comprometida.
+✅ Recomendación: Se recomienda vender Tienda 4, ya que presenta el rendimiento más débil en conjunto
 <br>
 <h2>⚙️ Entorno de desarrollo</h2>
 <p>Google Colab.</p>
